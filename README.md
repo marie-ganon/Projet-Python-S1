@@ -12,5 +12,5 @@ A partir de la base Movie Database disponible : https://www.kaggle.com/rounakban
 - Statistiques_descriptives.ipynb : Notebook comprenant les codes de visualisation des données et de statistiques descriptives
 - Modélisation.ipnyb : Notebook comprenant les codes relatifs à la modélisation du problème
 - movies_metadata.csv.zip : Dataset originel, disponible à l'adresse ci-dessus
-- base.csv.zip : Base de données nettoyée
+- base.csv : Base de données nettoyée
 - base_keywords2.csv.zip : Base de données comportant les mots-clés scrappés sur IMDB, ainsi que l'identifiant *imdb_id* du film et son titre *original_title*
