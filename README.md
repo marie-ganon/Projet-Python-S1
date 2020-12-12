@@ -16,4 +16,4 @@ A partir de la base Movie Database disponible : https://www.kaggle.com/rounakban
 - base_keywords2.csv.zip : Base de données comportant les mots-clés scrappés sur IMDB, ainsi que l'identifiant *imdb_id* du film et son titre *original_title*
 
 ## Méthodes utilisées 
-LDA, régression linéaire,  sentiment analyzer via classifier bayésien naïf
+LDA, régression linéaire,  sentiment analysis via classificateur bayésien naïf et SVM
