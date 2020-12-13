@@ -13,7 +13,7 @@ A partir de la base *The Movie Database* (disponible : https://www.kaggle.com/ro
 - Modélisation.ipnyb : Notebook comprenant les codes relatifs à la modélisation du problème
 
 Dans les dossiers :
-- Bases à télécharger (bases lourdes que nous avons zippées et qu'il faut télécharger pour tourner le notebook)
+- Bases à télécharger (bases lourdes que nous avons zippées et qu'il faut télécharger pour faire tourner le notebook)
   - movies_metadata.csv.zip : Dataset originel, disponible à l'adresse ci-dessus
   - base_keywords2.csv.zip : Base de données comportant les mots-clés scrappés sur IMDB, ainsi que l'identifiant *imdb_id* du film et son titre *original_title*
   - train_review.csv.zip : Base construite à partir de review_train_{pos, neg} contenant les commentaires sur la première moitié de la base
