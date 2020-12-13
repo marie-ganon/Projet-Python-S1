@@ -30,4 +30,4 @@ Dans les dossiers :
   
   
 ## Méthodes utilisées 
-LDA, régression linéaire,  sentiment analysis via classificateur bayésien naïf et SVM
+LDA, régression linéaire,  sentiment analysis via classificateur bayésien naïf et SVM, classification supervisée et semi supervisée
