@@ -38,4 +38,4 @@ Dans les dossiers :
   
   
 ## Méthodes utilisées 
-Nuage de mots, Latent Dirichlet Allocation, régression linéaire,  sentiment analysis via classificateur bayésien naïf et SVM, classification supervisée et semi supervisée
+Nuage de mots, Latent Dirichlet Allocation, régression linéaire,  sentiment analysis via classificateur bayésien naïf et SVM, classification supervisée et semi supervisée, Random Forest
